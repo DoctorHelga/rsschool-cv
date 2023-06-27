@@ -7,6 +7,7 @@
 * __Discord:__ doctorhelga
 * [__LinkedIn__](https://www.linkedin.com/in/olha-blazhevych-51a4ab21b)
 
+
 ## **Summary** 
 As an aspiring programmer with a passion for technology and problem-solving, I am eager to launch my career in the programming field. 
 I do not possess any direct professional experience in programming, but as a person, who graduated from medical university, I am determit to learn and grow on a daily basis.
@@ -28,6 +29,7 @@ Although I may lack professional experience, I compensate with strong analytical
 * Flexibility
 * Work in team
 * Diligence
+
 
 ## **Code example**
 ```
